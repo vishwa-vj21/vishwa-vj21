@@ -8,11 +8,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishwa-vj21]
 
-- Check out my portfolio at [https://vishwa-dev.vercel.app/]
+- 📫 Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
 - 💬 Ask me about **React, Next.js, TypeScript, Prisma, AI integrations in full stack apps**
 
-- 📫 Reach me through **iamvishwajith.s@gmail.com**
+- ☕ Reach me through **iamvishwajith.s@gmail.com**
 
 - ⚡ Fun fact **I love debugging late at night with lofi beats.**
 
