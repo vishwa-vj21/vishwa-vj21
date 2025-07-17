@@ -8,6 +8,8 @@
 
 - 👨‍💻 All of my projects are available at [https://vishwa-dev.vercel.app/ https://github.com/vishwa-vj21](https://vishwa-dev.vercel.app/ https://github.com/vishwa-vj21)
 
+- Check out my portfolio at vi
+
 - 💬 Ask me about **React, Next.js, TypeScript, Prisma, AI integrations in full stack apps**
 
 - 📫 Reach me through **iamvishwajith.s@gmail.com**
