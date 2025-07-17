@@ -29,4 +29,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishwa-vj21&show_icons=true&locale=en" alt="vishwa-vj21" /></p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-vj21&show_icons=true&count_private=true" alt="GitHub Stats" />
+</p>
+
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-vj21&" alt="vishwa-vj21" /></p> -->
