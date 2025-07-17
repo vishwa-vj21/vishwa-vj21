@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Cloud Infrastructure**
 
-- 👨‍💻 All of my projects are available at [https://vishwa-dev.vercel.app/ https://github.com/vishwa-vj21](https://vishwa-dev.vercel.app/ https://github.com/vishwa-vj21)
+- 👨‍💻 All of my projects are available at [https://github.com/vishwa-vj21]
 
-- Check out my portfolio at vi
+- Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
 - 💬 Ask me about **React, Next.js, TypeScript, Prisma, AI integrations in full stack apps**
 
