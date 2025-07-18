@@ -8,7 +8,7 @@
 
 - 📫 Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
-- 💬 Ask me about **React, Next.js, TypeScript, Prisma, AI integrations in full stack apps**
+- 💬 Ask me about **React, Next.js, TypeScript, Prisma in full stack apps**
 
 - ☕ Reach me through **iamvishwajith.s@gmail.com**
 
