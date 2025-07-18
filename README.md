@@ -124,6 +124,9 @@
 </p>
 <h3 align="left">Stats:</h3>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-vj21&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
 <p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-vj21&theme=tokyonight" alt="GitHub Streak" />
