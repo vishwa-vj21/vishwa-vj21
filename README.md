@@ -74,7 +74,7 @@
 
 <!-- Backend -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
 </a>
 
 
