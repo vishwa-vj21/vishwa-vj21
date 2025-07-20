@@ -74,8 +74,9 @@
 
 <!-- Backend -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Express.js-ffffff?style=for-the-badge&logo=express&logoColor=black" alt="express"/>
 </a>
+
 
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
