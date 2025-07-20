@@ -74,7 +74,7 @@
 
 <!-- Backend -->
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="express" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" alt="express" width="40" height="40"/>
 </a>
 
 <a href="https://graphql.org" target="_blank" rel="noreferrer">
