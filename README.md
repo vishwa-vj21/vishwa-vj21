@@ -124,15 +124,19 @@
 </p>
 <h3 align="left">Stats:</h3>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-vj21&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- Centered top image (Top Languages) -->
+<p align="center">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-vj21&theme=tokyonight" alt="GitHub Streak" height="180"/>
+  
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-vj21&theme=tokyonight" alt="GitHub Streak" />
+<!-- Two stats side by side (GitHub Stats + Streak) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishwa-vj21&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  &nbsp;&nbsp;
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-vj21&layout=compact&theme=tokyonight" align="top" alt="Top Languages" height="180"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwa-vj21&layout=compact&theme=tokyonight)
 
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwa-vj21&" alt="vishwa-vj21" /></p> -->
