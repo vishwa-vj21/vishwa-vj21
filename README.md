@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vishwajith S</h1>
 <h3 align="center">🚀 Full Stack Developer | Building Scalable Web & AI Solutions</h3>
+<br>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **Threadly – A scalable Reddit-inspired community platform**
+- 🔭 I’m currently working on **Memora - SaaS Platform**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vishwa-vj21]
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/vishwa-vj21] -->
 
 - 📫 Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
