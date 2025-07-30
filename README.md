@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Memora - SaaS Platform**
 
-<!-- - 👨‍💻 All of my projects are available at [https://github.com/vishwa-vj21] -->
+All of my projects are available at [https://github.com/vishwa-vj21]
 
 - 📫 Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
