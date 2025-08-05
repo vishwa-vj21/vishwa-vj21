@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Memora - SaaS Platform**
 
-All of my projects are available at [https://github.com/vishwa-vj21]
-
 - 📫 Check out my portfolio at [https://vishwa-dev.vercel.app/]
 
 - 💬 Ask me about **React, Next.js, TypeScript, Prisma in full stack apps**
